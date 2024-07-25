@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(242, 242, 184);
+    color: black;
+}
+h1{
+    background-color:gray;
+    color: rgb(55, 0, 255);
+}
+a{
+    text-decoration:dotted;
+    color: rgb(161, 69, 135);
+}
